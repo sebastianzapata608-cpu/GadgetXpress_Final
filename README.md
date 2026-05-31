@@ -50,7 +50,7 @@ Si las validaciones se cumplen, el sistema descuenta la cantidad vendida del inv
 
 ## Como ejecutar el programa
 
-1. Abrir el archivo GadgetXpress_Final.cpp.
+1. S2. Tarea. Simulación del compartimiento del inventario.cpp.
 2. Compilar el programa en un entorno compatible con C++.
 3. Ejecutar el programa.
 4. Usar el menu principal para probar las funcionalidades.
