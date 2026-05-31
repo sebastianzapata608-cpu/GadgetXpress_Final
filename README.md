@@ -57,7 +57,7 @@ Si las validaciones se cumplen, el sistema descuenta la cantidad vendida del inv
 
 ## Video de sustentacion
 
-En este repositorio se incluye el video de sustentacion del proyecto, donde se muestra el programa en ejecucion y se explican sus funcionalidades principales.
+https://docs.google.com/videos/d/1G_ZygDpLFBsag65oNPR5KGuB5du5dLD5d1e6LGpsvu4/edit?usp=sharing.
 
 ## Autor
 
